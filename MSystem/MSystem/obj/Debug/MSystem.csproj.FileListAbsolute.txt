@@ -1,0 +1,30 @@
+F:\Visual Studio Projects\MSystem\MSystem\bin\Debug\MSystem.exe.config
+F:\Visual Studio Projects\MSystem\MSystem\bin\Debug\MSystem.exe
+F:\Visual Studio Projects\MSystem\MSystem\bin\Debug\MSystem.pdb
+F:\Visual Studio Projects\MSystem\MSystem\obj\Debug\MSystem.csprojAssemblyReference.cache
+F:\Visual Studio Projects\MSystem\MSystem\obj\Debug\MSystem.DataManipulation.resources
+F:\Visual Studio Projects\MSystem\MSystem\obj\Debug\MSystem.FirstWindow.resources
+F:\Visual Studio Projects\MSystem\MSystem\obj\Debug\MSystem.Properties.Resources.resources
+F:\Visual Studio Projects\MSystem\MSystem\obj\Debug\MSystem.ReadData.resources
+F:\Visual Studio Projects\MSystem\MSystem\obj\Debug\MSystem.csproj.GenerateResource.cache
+F:\Visual Studio Projects\MSystem\MSystem\obj\Debug\MSystem.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\MSystem\MSystem\obj\Debug\MSystem.exe
+F:\Visual Studio Projects\MSystem\MSystem\obj\Debug\MSystem.pdb
+F:\Visual Studio Projects\MSystem\MSystem\obj\Debug\MSystem.WriteData.resources
+F:\Visual Studio Projects\MSystem\MSystem\obj\Debug\MSystem.EditData.resources
+F:\Visual Studio Projects\MSystem\MSystem\obj\Debug\MSystem.DeleteData.resources
+C:\Users\Personal\Desktop\Final Project\MSystem\MSystem\obj\Debug\MSystem.csprojAssemblyReference.cache
+C:\Users\Personal\Desktop\Final Project\MSystem\MSystem\obj\Debug\MSystem.exe
+C:\Users\Personal\Desktop\Final Project\MSystem\MSystem\obj\Debug\MSystem.pdb
+C:\Users\Personal\Desktop\Final Project\MSystem\MSystem\bin\Debug\MSystem.exe.config
+C:\Users\Personal\Desktop\Final Project\MSystem\MSystem\bin\Debug\MSystem.exe
+C:\Users\Personal\Desktop\Final Project\MSystem\MSystem\bin\Debug\MSystem.pdb
+C:\Users\Personal\Desktop\Final Project\MSystem\MSystem\obj\Debug\MSystem.DataManipulation.resources
+C:\Users\Personal\Desktop\Final Project\MSystem\MSystem\obj\Debug\MSystem.DeleteData.resources
+C:\Users\Personal\Desktop\Final Project\MSystem\MSystem\obj\Debug\MSystem.EditData.resources
+C:\Users\Personal\Desktop\Final Project\MSystem\MSystem\obj\Debug\MSystem.FirstWindow.resources
+C:\Users\Personal\Desktop\Final Project\MSystem\MSystem\obj\Debug\MSystem.Properties.Resources.resources
+C:\Users\Personal\Desktop\Final Project\MSystem\MSystem\obj\Debug\MSystem.ReadData.resources
+C:\Users\Personal\Desktop\Final Project\MSystem\MSystem\obj\Debug\MSystem.WriteData.resources
+C:\Users\Personal\Desktop\Final Project\MSystem\MSystem\obj\Debug\MSystem.csproj.GenerateResource.cache
+C:\Users\Personal\Desktop\Final Project\MSystem\MSystem\obj\Debug\MSystem.csproj.CoreCompileInputs.cache

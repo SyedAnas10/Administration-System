@@ -1,0 +1,15 @@
+C:\Users\Personal\Desktop\Final Project\Administration\Administration\obj\Debug\Administration.csprojAssemblyReference.cache
+C:\Users\Personal\Desktop\Final Project\Administration\Administration\obj\Debug\Administration.LoginPage.resources
+C:\Users\Personal\Desktop\Final Project\Administration\Administration\obj\Debug\Administration.Properties.Resources.resources
+C:\Users\Personal\Desktop\Final Project\Administration\Administration\obj\Debug\Administration.csproj.GenerateResource.cache
+C:\Users\Personal\Desktop\Final Project\Administration\Administration\obj\Debug\Administration.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Final Project\Administration\Administration\bin\Debug\Administration.exe.config
+C:\Users\Personal\Desktop\Final Project\Administration\Administration\bin\Debug\Administration.exe
+C:\Users\Personal\Desktop\Final Project\Administration\Administration\bin\Debug\Administration.pdb
+C:\Users\Personal\Desktop\Final Project\Administration\Administration\obj\Debug\Administration.exe
+C:\Users\Personal\Desktop\Final Project\Administration\Administration\obj\Debug\Administration.pdb
+C:\Users\Personal\Desktop\Final Project\Administration\Administration\obj\Debug\Administration.MainWindow.resources
+C:\Users\Personal\Desktop\Final Project\Administration\Administration\obj\Debug\Administration.Societies.resources
+C:\Users\Personal\Desktop\Final Project\Administration\Administration\obj\Debug\Administration.DataManipulation.resources
+C:\Users\Personal\Desktop\Final Project\Administration\Administration\obj\Debug\Administration.Employees.resources
+C:\Users\Personal\Desktop\Final Project\Administration\Administration\obj\Debug\Administration.SocietyDetails.resources
